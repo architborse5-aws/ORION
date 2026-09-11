@@ -97,3 +97,25 @@ Deployments: ORION Production, Nova Production
 Cloud / DevOps / AWS Portfolio Project
 
 **ORION v1.0**
+
+
+## Screenshots
+
+### ORION Dashboard
+![ORION Dashboard](screenshots/dashboard.png)
+
+### PostgreSQL Execution Report
+![PostgreSQL Execution Report](screenshots/postgres-report.png)
+
+### Task Automation
+![ORION Tasks](screenshots/tasks.png)
+
+### Deployment Automation
+![ORION Deployments](screenshots/deployments.png)
+
+### AI Employees
+![ORION AI Employees](screenshots/ai-employees.png)
+
+### Execution History
+![ORION Execution History](screenshots/execution-history.png)
+
