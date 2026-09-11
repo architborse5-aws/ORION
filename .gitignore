@@ -1,0 +1,54 @@
+# Secrets
+.env
+backend/.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+backend/venv/
+
+# Logs
+*.log
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+# ORION secrets
+*.pem
+*.key
+venv/
+# Backups
+*_BEFORE_*.py
+*_BEFORE_*.js
+*_BEFORE_*.css
+*.bak
+# OS / editor
+
+# Database dumps / runtime data
+*.sql
+*.dump
+
+# Logs
+*.log
+nohup.out
+
+# Development backup files
+*_before_*
+*_BEFORE_*
+*_backup.*
+*_WORKING.*
+*_working.*
+*.bak
+*.old
+*~
+
+# Database dumps
+*.sql
+*.dump
+
+# Runtime logs
+*.log
+nohup.out
